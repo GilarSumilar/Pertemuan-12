@@ -26,7 +26,7 @@ class mahasiswa():
         self.uas = []
         self.tugas = []
 ```
-Membuat `class mahasiswa():` dengan instance class  
+- Membuat `class mahasiswa():` dengan instance class  
 
 ```  Python
     # Menambahkan data inputan 
@@ -133,6 +133,6 @@ while True:
     else:
         print("\n INPUT {} TIDAK ADA!, Silakan pilih [T/L/H/U/K] untuk menjalankan program!".format(menu))
 ```
-- Perulangan dengan memilih ingin menjalankan [T/L/H/U/K] untuk menjalankan program
+- Perulangan dengan memilih [T/L/H/U/K] untuk menjalankan program apa yg ingin di gunakan.
 
 
