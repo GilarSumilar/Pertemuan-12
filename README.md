@@ -135,4 +135,10 @@ while True:
 ```
 - Perulangan dengan memilih [T/L/H/U/K] untuk menjalankan program apa yg ingin di gunakan.
 
+### Hasil Program 
 
+#### Menambahkan data & Melihat data  
+![1](Pitcure/Gambar1.png)
+
+#### Mengubah & menghapus data
+![2](Pitcure/Gambar2.png)
